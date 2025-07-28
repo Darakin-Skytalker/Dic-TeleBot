@@ -1,4 +1,4 @@
-# Merriam-Webster Telegram Dictionary Bot 📚
+# Merriam-Webster Telegram Dictionary Bot
 
 This is a Telegram bot that gives you dictionary features like:
 - Definitions
